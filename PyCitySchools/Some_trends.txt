@@ -1,0 +1,7 @@
+There is an inverse relationship with Per Student spending and Overall Passing Rate. The more spending there is, the worse the students do.
+
+There eight schools with 100% passing rates. Not a single student is failing.
+
+The smaller the school size the better the grades.
+
+Charter schools perform better that District schools.
